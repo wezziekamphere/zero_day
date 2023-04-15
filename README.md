@@ -1,0 +1,4 @@
+-vagrant
+-ubuntu
+-emacs
+-git
